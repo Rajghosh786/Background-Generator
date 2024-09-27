@@ -25,3 +25,10 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+.generate{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    /* background-color:; */
+    border: 0px solid red;
+}
